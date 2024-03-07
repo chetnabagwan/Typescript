@@ -1,0 +1,1 @@
+// If we want to run all the typescript files in one go, we need a config file to configure how the Typescript compiler behaves
